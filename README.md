@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+
 - 🏫 I'm currently pursuing B.Tech from Gati Shakti Vishwavidyalaya
 - 🔭 I’m currently working on Open Sourse contributions
 - 🌱 I’m currently learning Web Apps using Next and React
