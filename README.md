@@ -2,8 +2,11 @@
 
 
 - 🏫 I'm currently pursuing B.Tech from Gati Shakti Vishwavidyalaya
+
 - 🔭 I’m currently working on Open Sourse contributions
+  
 - 🌱 I’m currently learning Web Apps using Next and React
+  
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/krishav-rajsingh/
                        Twitter - https://twitter.com/krishav_kr9125
                         
