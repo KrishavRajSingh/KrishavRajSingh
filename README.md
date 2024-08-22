@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=KrishavRajSingh&color=lightgrey&style=for-the-badge)
+
 <p align="center">
   <h5 align="center">Welcome to my github</h5>
   <p align="center">
